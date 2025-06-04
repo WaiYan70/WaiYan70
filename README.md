@@ -1,14 +1,25 @@
-# 👋 Hi, I'm Khant Wai Yan (aka Software Crafters)
+# 👋 Hi, I'm Khant Wai Yan — an indie full-stack developer crafting real-world solutions 🚀
 
-I’m an indie software engineer and full-stack web developer passionate about crafting clean, secure, and scalable applications that solve real-world problems. Recently, I’ve been diving into AI, building smart web apps that leverage modern AI tools for business insight and automation.
+I build performant and user-centric apps that solve practical problems — with a focus on clean code, security, and scalability. Recently, I’ve been exploring AI, building smart tools that enhance automation and deliver business insights. 
+
+## 👨‍💻 About Me
+
+I hold a Software Engineering Diploma from Gusto University and a Bachelor’s degree in Computer System Engineering from the University of Sunderland. Alongside my formal education, I continuously learn new programming skills and frameworks on my own to stay up-to-date and tackle real-world challenges. Over the years, I have built a variety of projects — from simple websites to full-stack applications — sharpening my expertise in modern technologies like Next.js and the MERN stack. Beyond coding, I enjoy creative hobbies like tinkering with IoT devices, gaming, and cooking, which keep me inspired and balanced.
+
 
 ## 🚀 Current Project
-Building an **e-commerce web app** with an **admin dashboard**, integrating **web scraping** with AI-powered business analysis features.
 
-### 🧠 Currently Learning Framework, Database, AI & DevOps Tools, CI/CD and Deployment Strategies
+Building an **e-commerce web app** with an **admin dashboard**, combining **web scraping** with **AI-powered** insights to help businesses make smarter decisions.
+
+
+## 🚀 Current Project
+Building an **e-commerce web app** with an **admin dashboard**, combining **web scraping** with **AI-powered** insights to help businesses make smarter decisions.
+
+### 🧠 Currently Exploring: Frameworks, Databases, AI, DevOps, CI/CD
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000?logo=nextdotjs)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/AI-Hugging%20Face-ffcd00?logo=huggingface)
+![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/DevOps-Nginx-009639?logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/Process%20Manager-PM2-2B037A)
@@ -30,6 +41,7 @@ Building an **e-commerce web app** with an **admin dashboard**, integrating **we
 ![Axios](https://img.shields.io/badge/Axios-5A29E4.svg?style=for-the-badge&logo=axios&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=for-the-badge&logo=puppeteer&logoColor=white)
@@ -40,14 +52,22 @@ Building an **e-commerce web app** with an **admin dashboard**, integrating **we
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-000000.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
 
-### ✨ Fun Facts
-- 🎮 Gamer at heart, 🎧 music lover, and 🍳 passionate home cook
-- 🧱 I love to build LEGO for fun and sometimes 🤖 IoT devices too
-- ☕ I enjoy coding at cafés and hanging out with friends  
-- 💡 Always exploring creative hobbies outside of coding
+<details>
+  <summary>🤹 Fun Facts (click to expand)</summary>
+  <br/>
 
-🔗 **Let's connect and build something awesome together!**
+  - 🎮 Gamer at heart, 🎧 music keeps me going, and 🍳 I love to cook  
+  - 🛠️ I build LEGO and IoT devices 🤖 just for fun  
+  - ☕ I enjoy coding at cafés and hanging out with friends
+  - 💡 Always exploring creative hobbies outside of coding
+
+</details>
+
+🚀 Open to collaboration — let’s build something meaningful together!!!
