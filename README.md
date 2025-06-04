@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Khant Wai Yan (aka Software Crafters)
 
-<!--
-**WaiYan70/WaiYan70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **indie software engineer** and **full-stack web developer** who loves crafting clean, scalable applications that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Current Project
+Building an AI-powered **e-commerce web app** with an **admin dashboard**, integrating **web scraping** for market data and business analysis features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- DevOps Tools: `Docker`, `Nginx`, `PM2`
+- CI/CD and scalable deployment strategies
+
+## 🛠 Tech Stack
+**Frontend**:  
+`HTML` • `CSS` • `Tailwind CSS` • `JavaScript` • `React.js`  
+**Backend**:  
+`Node.js` • `Express.js` • `MongoDB` • `Redis`  
+**Other Tools**:  
+`Python` • `Java` • `Git & GitHub` • `Linux` • `AWS EC2`
+
+## 🎮 Fun Facts
+- 🎮 I love playing video games  
+- 🍳 Cooking is my way to relax  
+- 🧱 Big fan of building LEGO in my free time  
+
+---
+
+🔗 Let's connect and build something awesome together!
