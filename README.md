@@ -5,7 +5,7 @@ I’m an indie software engineer and full-stack web developer passionate about c
 ## 🚀 Current Project
 Building an **e-commerce web app** with an **admin dashboard**, integrating **web scraping** with AI-powered business analysis features.
 
-### Currently Learning Framework, Database, AI and DevOps Tools, CI/CD and Deployment Strategies
+### 🧠 Currently Learning Framework, Database, AI & DevOps Tools, CI/CD and Deployment Strategies
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000?logo=nextdotjs)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/AI-Hugging%20Face-ffcd00?logo=huggingface)
