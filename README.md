@@ -6,7 +6,8 @@ I build performant and user-centric apps that solve practical problems — with 
 
 Building an **e-commerce web app** with an **admin dashboard**, combining **web scraping** with **AI-powered** insights to help businesses make smarter decisions.
 
-*** 🧠 Currently Exploring: Frameworks, Databases, AI, DevOps, CI/CD**
+**🧠 Currently Exploring: Frameworks, Databases, AI, DevOps, CI/CD** 
+
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000?logo=nextdotjs)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/AI-Hugging%20Face-ffcd00?logo=huggingface)
