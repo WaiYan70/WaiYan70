@@ -44,9 +44,10 @@ Building an **e-commerce web app** with an **admin dashboard**, integrating **we
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-## 🎮 Fun Facts
-- 🎮 I love playing video games  
-- 🍳 Cooking is my way to relax  
-- 🧱 Big fan of building LEGO in my free time  
+### ✨ Fun Facts
+- 🎮 Gamer at heart, 🎧 music lover, and 🍳 passionate home cook
+- 🧱 I love to build LEGO for fun and sometimes 🤖 IoT devices too
+- ☕ I enjoy coding at cafés and hanging out with friends  
+- 💡 Always exploring creative hobbies outside of coding
 
-🔗 Let's connect and build something awesome together!
+🔗 **Let's connect and build something awesome together!**
