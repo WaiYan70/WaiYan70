@@ -26,7 +26,7 @@ Building an AI-powered **e-commerce web app** with an **admin dashboard**, integ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS EC2"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://cdn.jsdelivr.net/npm/aws@0.0.3-2/lib/aws.min.js)" height="30" alt="AWS EC2"/>
 </p>
 
 ## 🎮 Fun Facts
