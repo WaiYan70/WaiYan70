@@ -1,10 +1,6 @@
 **👋 Hi there, I'm Khant Wai Yan — an indie full-stack developer crafting real-world solutions 🚀**
 
-I build performant and user-centric apps that solve practical problems — with a focus on clean code, security, and scalability. Recently, I’ve been exploring AI, building smart tools that enhance automation and deliver business insights. I continuously learn new programming skills and frameworks to stay up-to-date and tackle real-world challenges. Over the years, I have built a variety of projects — from simple websites to full-stack applications — sharpening my expertise in modern technologies like Next.js and the MERN stack. Beyond coding, I enjoy creative hobbies like tinkering with IoT devices, gaming, and cooking, which keep me inspired and balanced.
-
-** 🚀 Current Project
-
-Building an **e-commerce web app** with an **admin dashboard**, combining **web scraping** with **AI-powered** insights to help businesses make smarter decisions.
+I build performant and user-centric apps that solve practical problems with a focus on clean code, security, and scalability. Recently, I’ve been exploring AI, building smart tools that enhance automation and deliver business insights. I continuously learn new programming skills and frameworks to stay up-to-date and tackle real-world challenges. Over the years, I have built a variety of projects from simple websites to full-stack applications, sharpening my expertise in modern technologies like Next.js and the MERN stack. Beyond coding, I enjoy creative hobbies like tinkering with IoT devices, gaming, and cooking, which keep me inspired and balanced.
 
 **🧠 Currently Exploring: Frameworks, Databases, AI, DevOps, CI/CD** 
 
