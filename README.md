@@ -1,8 +1,8 @@
-**👋 Hi there, I'm Khant Wai Yan — an indie full-stack developer crafting real-world solutions 🚀**
+### 👋 Hi there, I'm Khant Wai Yan — an indie full-stack developer crafting real-world solutions 🚀
 
 I build performant and user-centric apps that solve practical problems with a focus on clean code, security, and scalability. Recently, I’ve been exploring AI, building smart tools that enhance automation and deliver business insights. I continuously learn new programming skills and frameworks to stay up-to-date and tackle real-world challenges. Over the years, I have built a variety of projects from simple websites to full-stack applications, sharpening my expertise in modern technologies like Next.js and the MERN stack. Beyond coding, I enjoy creative hobbies like tinkering with IoT devices, gaming, and cooking, which keep me inspired and balanced.
 
-**🧠 Currently Exploring: Frameworks, Databases, AI, DevOps, CI/CD** 
+#### 🧠 Currently Exploring: Frameworks, Databases, AI, DevOps, CI/CD
 
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000?logo=nextdotjs)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
@@ -13,7 +13,7 @@ I build performant and user-centric apps that solve practical problems with a fo
 ![PM2](https://img.shields.io/badge/Process%20Manager-PM2-2B037A)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=githubactions)
 
-**🛠 Tech Stack, Languages and Tools**
+#### 🛠 Tech Stack, Languages and Tools
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
